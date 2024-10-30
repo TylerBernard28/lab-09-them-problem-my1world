@@ -43,7 +43,6 @@ function getThey(you) {
 
 
 function init(ev) {
-  console.debug('fyi, this is what a domcontentloaded event looks like', ev)
 
   // FIXME: notice above that getYous just returns a literal.
   // you should update the code below to instead call getOptions.
